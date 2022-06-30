@@ -1,8 +1,8 @@
 {
-  "jogos" : [
-    {
-      "perguntas" : [
-        {
+	"jogos" : [
+		{
+		 "perguntas" : [
+		    {
           "pergunta" : "Quantas ilhas tem o arquipélago dos Açores?",
           "conteudo" : [
             "9",
@@ -152,7 +152,7 @@
           ],
           "correta": 0
         }
-      ]
-    }
-  ]
+		    ]
+		}
+	]
 }
