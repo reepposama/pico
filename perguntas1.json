@@ -1,0 +1,158 @@
+{
+  "jogos" : [
+    {
+      "perguntas" : [
+        {
+          "pergunta" : "Quantas ilhas tem o arquipélago dos Açores?",
+          "conteudo" : [
+            "9",
+            "10",
+            "8",
+            "7"
+          ],
+          "correta" : 0
+        },
+        {
+          "pergunta" : "Em que cidade está sedeada a Presidência do Governo Regional?",
+          "conteudo" : [
+            "Ponta Delgada",
+            "Horta",
+            "Angra do Heroísmo",
+            "Lagoa"
+          ],
+          "correta" : 1
+        },
+        {
+          "pergunta" : "Qual a  cidade açoriana classificada como Património Mundial em 1983?",
+          "conteudo" : [
+            "Angra do Heroísmo",
+            "Horta",
+            "Ponta Delgada",
+            "Lagoa"
+          ],
+          "correta" : 0
+        },
+        {
+          "pergunta" : "Qual a ilha mais conhecida pelas suas atividades baleeiras?",
+          "conteudo" : [
+            "Terceira",
+            "Faial",
+            "Graciosa",
+            "Pico"
+          ],
+          "correta" : 3
+        },
+        {
+          "pergunta" : "Qual o nome da ave marinha que nidifica na região e que se caracteriza pelo seu grito noturno?",
+          "conteudo" : [
+            "Cagarro",
+            "Pardal",
+            "Melro",
+            "Priolo"
+          ],
+          "correta" : 0
+        },
+        {
+          "pergunta": "Se quiser comer um cozido confecionado a vapor num buraco escavado no solo, que ilha deve visitar? ",
+          "conteudo": [
+            "São Miguel",
+            "Flores",
+            "Graciosa",
+            "Terceira"
+          ],
+          "correta": 0
+        },
+        {
+          "pergunta": "De que ilha é característico um prato chamado Alcatra?",
+          "conteudo": [
+            "Pico",
+            "São Jorge",
+            "Faial",
+            "Terceira"
+          ],
+          "correta": 3
+        },
+        {
+          "pergunta": "Qual a festa religiosa que se realiza em todas as ilhas?",
+          "conteudo": [
+            "Santo Cristo",
+            "São João",
+            "Espírito Santo",
+            "Santo António"
+          ],
+          "correta": 2
+        },
+        {
+          "pergunta": "Qual o cetáceo mais comum nos mares dos Açores?",
+          "conteudo": [
+            "Cachalote",
+            "Golfinho",
+            "Baleia Azul",
+            "Tubarão-Martelo"
+          ],
+          "correta": 0
+        },
+        {
+          "pergunta": "Em que ilha podemos subir ao ponto mais alto de Portugal?",
+          "conteudo": [
+            "São Miguel",
+            "Pico",
+            "Graciosa",
+            "São Jorge"
+          ],
+          "correta": 1
+        },
+        {
+          "pergunta": "Que nome se dá ao marisco univalve que se encontra agarrado à rocha marítima?",
+          "conteudo": [
+            "Lapa",
+            "Amêijoa",
+            "Berbigão",
+            "Búzio"
+          ],
+          "correta": 0
+        },
+        {
+          "pergunta": "Quais as cores predominantes da bandeira dos Açores?",
+          "conteudo": [
+            "Azul+Branco",
+            "Azul+Amarelo",
+            "Amarelo+Branco",
+            "Azul+Laranja"
+          ],
+          "correta": 0
+        },
+        {
+          "pergunta": "Qual a ilha mais ocidental do arquipélago e consequentemente da Europa?",
+          "conteudo": [
+            "Corvo",
+            "Santa Maria",
+            "Graciosa",
+            "Flores"
+          ],
+          "correta": 3
+        },
+        {
+          "pergunta": "Em que cidade se situam as instalações da Assembleia Legislativa Regional?",
+          "conteudo": [
+            "Angra do Heroísmo",
+            "Ponta Delgada",
+            "Lagoa",
+            "Horta"
+          ],
+          "correta": 0
+        },
+        {
+          "pergunta": "Que ilha é conhecida pelas suas fajãs?",
+          "conteudo": [
+            "São Jorge",
+            "Pico",
+            "Terceira",
+            "Faial"
+          ],
+          "correta": 0
+        }
+      ]
+    }
+  ]
+}
